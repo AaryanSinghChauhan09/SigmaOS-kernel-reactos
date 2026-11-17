@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-kernel-reactos"
-description = "ReactOS Windows NT kernel compatibility architecture"
+description = "ReactOS NT-compatible kernel architecture integration for SigmaOS"
 version = "0.1.0"
 tier = 1
 
